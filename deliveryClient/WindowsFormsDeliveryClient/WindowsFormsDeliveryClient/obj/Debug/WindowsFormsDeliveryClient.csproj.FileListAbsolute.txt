@@ -1,0 +1,9 @@
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\bin\Debug\WindowsFormsDeliveryClient.exe.config
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\bin\Debug\WindowsFormsDeliveryClient.exe
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\bin\Debug\WindowsFormsDeliveryClient.pdb
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\obj\Debug\WindowsFormsDeliveryClient.csprojResolveAssemblyReference.cache
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\obj\Debug\WindowsFormsDeliveryClient.loaderrbt.resources
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\obj\Debug\WindowsFormsDeliveryClient.Properties.Resources.resources
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\obj\Debug\WindowsFormsDeliveryClient.csproj.GenerateResource.Cache
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\obj\Debug\WindowsFormsDeliveryClient.exe
+F:\books\web service\deliveryClient\WindowsFormsDeliveryClient\WindowsFormsDeliveryClient\obj\Debug\WindowsFormsDeliveryClient.pdb
